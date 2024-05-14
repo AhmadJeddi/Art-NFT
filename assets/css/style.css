@@ -78,6 +78,10 @@ html {
 }
 body {
   background-color: #07101d;
+  overflow-x: hidden;
+}
+html {
+  overflow-x: hidden;
 }
 :root {
   --orange: #ff3c00;
